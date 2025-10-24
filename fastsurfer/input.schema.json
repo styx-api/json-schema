@@ -1,0 +1,7 @@
+{
+  "oneOf": [
+    {
+      "$ref": "fastsurfer/fastsurfer.run_fastsurfer.sh.input.json"
+    }
+  ]
+}
